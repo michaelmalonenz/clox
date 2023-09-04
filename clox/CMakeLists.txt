@@ -4,6 +4,7 @@ debug.c
 main.c
 memory.c
 value.c
+vm.c
 )
 
 
